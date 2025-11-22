@@ -1,4 +1,4 @@
-# Gensyn-CodeAssist
+# Gensyn-CodeAssist (currently on progress)
 This guide shows you the easiest way to run CodeAssist on Octa using a single command (copy-paste friendly)
 # 🚀 CodeAssist on Octa — Minimal Setup Guide
 
