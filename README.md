@@ -1,7 +1,7 @@
 # Run CodeAssist on Octa-Space (currently on progress)
 This guide shows you the easiest way to run CodeAssist on Octa using a single command (copy-paste friendly)
 
-<img src="images/codeassist.png" width="50%">
+<img src="images/codeassist.png" width="60%">
 
 # 🚀 CodeAssist on Octa — Minimal Setup Guide
 
