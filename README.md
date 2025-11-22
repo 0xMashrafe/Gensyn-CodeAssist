@@ -1,2 +1,2 @@
 # Gensyn-CodeAssist
-Run CodeAssist on Octa with single promt installation (easiest &amp; step by step)
+This guide shows you the easiest way to run CodeAssist on Octa using a single command (copy-paste friendly)
