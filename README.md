@@ -3,6 +3,8 @@ This guide shows you the easiest way to run CodeAssist on Octa using a single co
 
 <img src="images/codeassist.png" width="60%">
 
+---
+
 ## Step 1: Create Your HuggingFace Token
 
 <p>
