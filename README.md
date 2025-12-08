@@ -93,7 +93,7 @@ uv run run.py
 ## Step 5: Authenticate & Wait for CodeAssist to Start
 
 <p>
-  <img src="images/codeassist-step5.png" width="70%">
+  <img src="images/codeassist-step6.png" width="70%">
 </p>
 
 After the installer starts running:
