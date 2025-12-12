@@ -1,5 +1,6 @@
 # Run CodeAssist on Octa-Space
-This guide shows you the easiest way to try CodeAssist on Octa using command (copy-paste friendly)
+This guide provides a simple and beginner-friendly way to run **Gensyn CodeAssist** on **OctaSpace**, using clear steps and visual references.  
+Follow the steps below to get CodeAssist running in just a few minutes.
 
 <img src="images/codeassist.png" width="60%">
 
