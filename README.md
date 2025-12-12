@@ -88,9 +88,7 @@ cd codeassist
 uv run run.py
 ```
 
----
-
-## Step 5: Authenticate & Wait for CodeAssist to Start
+Authenticate & Wait for CodeAssist to Start
 
 After the installer starts running:
 
