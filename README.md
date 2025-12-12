@@ -92,14 +92,10 @@ uv run run.py
 
 ## Step 5: Authenticate & Wait for CodeAssist to Start
 
-<p>
-  <img src="images/codeassist-step6.png" width="70%">
-</p>
-
 After the installer starts running:
 
 1. You will be asked to enter your **HuggingFace token**  
-   - Paste it (it will not show on screen)  
+   - Paste it (it might not show on screen)  
 2. Press **Enter**  
 3. Wait for the installation to complete  
 4. When you see **"CodeAssist Started"**, everything is ready
