@@ -2,7 +2,7 @@
 This guide provides a simple and beginner-friendly way to run **Gensyn CodeAssist** on **OctaSpace**, using clear steps and visual references.  
 Follow the steps below to get CodeAssist running in just a few minutes.
 
-<img src="images/codeassist.png" width="60%">
+<img src="images/codeassist.png" width="70%">
 
 ---
 
@@ -101,7 +101,7 @@ After the installer starts running:
 
 ---
 
-## Step 6: Open the CodeAssist Web Interface
+## Step 5: Open the CodeAssist Web Interface
 
 <p>
   <img src="images/codeassist-step6.png" width="70%">
