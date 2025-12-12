@@ -106,10 +106,3 @@ After the installer starts running:
 
 ---
 
-## ⚡ Quick Setup (1-Command Install)
-
-Once your Octa instance is deployed (steps below),  
-run this command inside **Web SSH**:
-
-```bash
-curl -LsSf https://files.octa.space/codeassist | bash
