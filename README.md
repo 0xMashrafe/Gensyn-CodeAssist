@@ -100,3 +100,22 @@ After the installer starts running:
 
 ---
 
+## Step 6: Open the CodeAssist Web Interface
+
+<p>
+  <img src="images/codeassist-step6.png" width="70%">
+</p>
+
+Once CodeAssist has started, you can open it directly in your browser.
+
+1. Wait until the terminal shows **"CodeAssist Started"**  
+2. Return to your **Session Details** on Octa  
+3. Under **HTTP Services**, click the link for port **3000**  
+4. The CodeAssist Web UI will open in a new tab
+
+---
+
+After the Web UI opens, you can begin using CodeAssist immediately.  
+For guidance on features, workflows, and best practices, refer to the official documentation:
+
+https://docs.gensyn.ai/testnet/codeassist/using-codeassist
