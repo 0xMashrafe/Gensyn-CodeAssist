@@ -9,7 +9,7 @@ Follow the steps below to get CodeAssist running in just a few minutes.
 ## Step 1: Create Your HuggingFace Token
 
 <p>
-  <img src="images/codeassist-step1.png" width="70%">
+  <img src="images/codeassist-step1.png" width="80%">
 </p>
 
 To run CodeAssist, you'll need a HuggingFace access token.
@@ -29,7 +29,7 @@ To run CodeAssist, you'll need a HuggingFace access token.
 ## Step 2: Choose Your Octa VM
 
 <p>
-  <img src="images/codeassist-step2.png" width="70%">
+  <img src="images/codeassist-step2.png" width="80%">
 </p>
 
 Now we'll select the virtual machine that will run CodeAssist.
@@ -47,11 +47,11 @@ Now we'll select the virtual machine that will run CodeAssist.
 ## Step 3: Configure Your Deployment
 
 <p>
-  <img src="images/codeassist-step3.png" width="70%">
+  <img src="images/codeassist-step3.png" width="80%">
 </p>
   Before deploying your instance, we need to expose the correct port.
  <p>
-  <img src="images/codeassist-step4.png" width="70%">
+  <img src="images/codeassist-step4.png" width="80%">
 </p>
 
 1. In the **Expose HTTP Ports** field, enter **3000**  
@@ -64,7 +64,7 @@ Now we'll select the virtual machine that will run CodeAssist.
 ## Step 4: Access Web SSH & Install CodeAssist
 
 <p>
-  <img src="images/codeassist-step5.png" width="70%">
+  <img src="images/codeassist-step5.png" width="80%">
 </p>
 
 Once your instance is running, open a terminal on it to begin installation.
@@ -104,7 +104,7 @@ After the installer starts running:
 ## Step 5: Open the CodeAssist Web Interface
 
 <p>
-  <img src="images/codeassist-step6.png" width="70%">
+  <img src="images/codeassist-step6.png" width="80%">
 </p>
 
 Once CodeAssist has started, you can open it directly in your browser.
